@@ -1,0 +1,1 @@
+// Hier deinen bestehenden chat.ts Code einfügen

@@ -1,0 +1,1 @@
+// Hier deinen bestehenden supabase.ts Code einfügen

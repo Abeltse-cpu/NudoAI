@@ -1,0 +1,1 @@
+// Hier deinen bestehenden characters.ts Code einfügen
